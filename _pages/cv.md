@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Roman Bicknell - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
