@@ -6,7 +6,7 @@ title: Roman Bicknell
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Bicknell_Roman_24_business.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture](/assets/images/Bicknell_Roman_24_business.jpg){: class="profile-image"}
 
  
 Hi! My name is {{ site.name }}, and I am engineering student at Cornell University as well as a Division One athlete on the Cornell Mens Varsity Squash team.   
