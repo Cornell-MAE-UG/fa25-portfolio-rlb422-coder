@@ -1,6 +1,8 @@
 ---
 layout: project
 description: Client Outline and Pitch for MAE2250 ODP
+title: SWATR: A Scalable Robotic Lanternfly Removal Attachment
+permalink: /projects/2026-client-outline/
 image: assets/images/Spotted Lanternfly.jpeg
 fontsize: 11pt
 geometry: margin=1in
@@ -13,7 +15,6 @@ header-includes:
   - \addtolength{\oddsidemargin}{-0.3in}
   - \addtolength{\textheight}{0.6in}
   - \addtolength{\topmargin}{-0.3in}
----
 
 # SWATR: A Scalable Robotic Lanternfly Removal Attachment
 **Team:** The Bug Busting Crew  
